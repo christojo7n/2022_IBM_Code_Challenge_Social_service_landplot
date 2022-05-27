@@ -23,6 +23,16 @@ HTML + CSS -> Front end.
 php + mysql -> Backend
 
 ![alt text](https://github.com/christojo7n/2022_IBM_Code_Challenge_Social_service_landplot/blob/0dd5f6ce4a525ab3241d9a3a8911ed755fafe804/Arch.png)
+
+# Instructions
+1. Install Xaamp
+2. open Xaamp Installation Directory and goto htdocs folder.
+3. Inside the Directory Paste the Land_Plot folder
+4. Open Brower and goto https://localhost/phpmyadmin
+5. create new db with the name "land_plot"
+6. in the menu bar click on import and navigate inside the Land_plot in htdocs directory for the db directory and choose the >>load_plot.sql<< file.
+7. now goto https://localhost/landplot/app
+
  
 
 
