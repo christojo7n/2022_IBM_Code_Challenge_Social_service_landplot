@@ -22,7 +22,7 @@ the same way? – for e.g.,
 HTML + CSS -> Front end.
 php + mysql -> Backend
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/christojo7n/2022_IBM_Code_Challenge_Social_service_landplot/blob/0dd5f6ce4a525ab3241d9a3a8911ed755fafe804/Arch.png)
  
 
 
